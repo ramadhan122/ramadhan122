@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7C5,50:C39BD3,100:8E7CC3&height=200&section=header&text=ようこそ!&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Ramadhan%20Sulthon%20Alfanie%20-%20Full%20Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFB7C5,50:C39BD3,100:8E7CC3&height=220&section=header&text=ようこそ!&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Ramadhan%20Sulthon%20Alfanie%20-%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&width=650&lines=%E3%80%8Cこんにちは、世界%E3%80%8D+Hello%2C+World!;Python+%7C+Django+%7C+React;Building+Something+Cool+%E2%9C%A8" />
 
@@ -110,6 +110,6 @@ A lightweight desktop application featuring a pixel-art animated character.
 
 *Arigatou gozaimasu for visiting my profile ✨*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E7CC3,100:FFB7C5&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E7CC3,100:FFB7C5&height=100&section=footer" width="100%"/>
 
 </div>
