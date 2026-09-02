@@ -1,16 +1,146 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kizuki</h1>
 
-<!--
-**ramadhan122/ramadhan122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+Something+Cool+%F0%9F%9A%80" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Informatics Engineering Graduate • Full Stack Developer
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/USERNAME_KAMU">
+    <img src="https://img.shields.io/github/followers/USERNAME_KAMU?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/USERNAME_KAMU?tab=repositories">
+    <img src="https://img.shields.io/github/stars/USERNAME_KAMU?label=Stars&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Informatics Engineering Graduate
+- 💻 Interested in Web & Desktop Development
+- 🐍 Mainly working with Python and Django
+- ⚛️ Building interfaces with React
+- 🖥️ Experimenting with Electron
+- 🎨 I enjoy creating interactive and visual projects
+- 🚀 Always learning and building something new
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</p>
+
+### Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,electron" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Export Salak
+
+A web application built with React and Django REST Framework.
+
+**Tech Stack**
+
+`React` `Django` `Python` `REST API`
+
+---
+
+### 📸 Photography Service Website
+
+A photography service platform with customer segmentation using RFM analysis and Decision Tree classification.
+
+**Tech Stack**
+
+`Django` `Python` `Scikit-learn` `MySQL`
+
+---
+
+### 🐱 Desktop Cat
+
+A lightweight desktop application featuring a pixel-art animated character.
+
+**Tech Stack**
+
+`Electron` `JavaScript` `HTML` `CSS` `Spritesheet`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/USERNAME_KAMU">
+    <img src="https://github.com/ramadhan122" />
+  </a>
+
+  <a href="LINKEDIN_KAMU">
+    <img src="www.linkedin.com/in/ramadhan-sulthon-alfanie-2595b0280" />
+  </a>
+
+  <a href="INSTAGRAM_KAMU">
+    <img src="https://www.instagram.com/sul_lall/" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>「 Build • Create • Learn • Repeat 」</i>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! ✨
+</p>
