@@ -1,110 +1,113 @@
-<h1 align="center">Hi 👋, I'm Ramadhan Sulthon Alfanie</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+Something+Cool+%F0%9F%9A%80" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:6C00FF,100:00FFC6&height=220&section=header&text=RAMADHAN%20SULTHON%20ALFANIE&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  Informatics Engineering Graduate • Full Stack Developer
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=650&lines=%3E+Loading+Player_Profile...;Python+%7C+Django+%7C+React;Building+Something+Cool+%F0%9F%9A%80" />
 
-<p align="center">
-  <a href="https://github.com/ramadhan122">
-    <img src="https://img.shields.io/github/followers/ramadhan122?style=for-the-badge&label=Followers" />
-  </a>
-</p>
+<img src="https://img.shields.io/badge/GitHub-ramadhan122-0F0F1A?style=for-the-badge&logo=github&logoColor=00FFC6&labelColor=0F0F1A" />
+<img src="https://img.shields.io/github/followers/ramadhan122?style=for-the-badge&label=FOLLOWERS&color=6C00FF&labelColor=0F0F1A&logoColor=00FFC6" />
 
----
+</div>
 
-## 👨‍💻 About Me
+<br>
 
-- 🎓 Informatics Engineering Graduate
-- 💻 Interested in Web & Desktop Development
-- 🐍 Mainly working with Python and Django
-- ⚛️ Building interfaces with React
-- 🖥️ Experimenting with Electron
-- 🎨 I enjoy creating interactive and visual projects
-- 🚀 Always learning and building something new
+## `>` PLAYER_INFO
 
----
+```yaml
+class:      Full Stack Developer
+education:  Informatics Engineering Graduate
+focus:      Web & Desktop Development
+main_stack: Python + Django | React
+status:     Always learning, always building 🚀
+```
 
-## 🛠️ Tech Stack
+<br>
 
-**Frontend**
+## `>` INVENTORY // Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+**⚡ Frontend**
+<p><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" /></p>
 
-**Backend**
+**⚡ Backend**
+<p><img src="https://skillicons.dev/icons?i=python,django&theme=dark" /></p>
 
-<img src="https://skillicons.dev/icons?i=python,django" />
+**⚡ Database & Tools**
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,electron&theme=dark" /></p>
 
-**Database & Tools**
+<br>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,electron" />
+## `>` QUEST_LOG // Featured Projects
 
----
-
-## 🚀 Featured Projects
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### 🌐 Export Salak
-A web application built with React and Django REST Framework.
-`React` `Django` `Python` `REST API`
+Web app for managing salak export data.
 
-### 📸 Photography Service Website
-A photography service platform with customer segmentation using RFM analysis and Decision Tree classification.
-`Django` `Python` `Scikit-learn` `MySQL`
+`React` `Django` `REST API`
+
+</td>
+<td width="33%" valign="top">
+
+### 📸 Photography Service
+Booking platform with RFM customer segmentation & Decision Tree classification.
+
+`Django` `Scikit-learn` `MySQL`
+
+</td>
+<td width="33%" valign="top">
 
 ### 🐱 Desktop Cat
-A lightweight desktop application featuring a pixel-art animated character.
-`Electron` `JavaScript` `HTML` `CSS` `Spritesheet`
+Lightweight desktop app with pixel-art animated companion.
 
----
+`Electron` `JavaScript` `Spritesheet`
 
-## 📊 GitHub Stats
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramadhan122&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhan122&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
+<br>
 
----
+## `>` STATS // Character Sheet
 
-## 🔥 GitHub Streak
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ramadhan122&show_icons=true&theme=radical&hide_border=true&bg_color=0F0F1A&title_color=00FFC6&icon_color=6C00FF" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhan122&layout=compact&theme=radical&hide_border=true&bg_color=0F0F1A&title_color=00FFC6" height="180" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ramadhan122&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=ramadhan122&theme=radical&hide_border=true&background=0F0F1A&ring=6C00FF&fire=00FFC6" />
+</div>
 
----
+<br>
 
-## 🐍 Contribution Snake
+## `>` ACTIVITY_LOG
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ramadhan122/ramadhan122/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/ramadhan122/ramadhan122/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</div>
 
----
+<br>
 
-## 🌐 Connect With Me
+## `>` MULTIPLAYER // Connect
 
-<p align="center">
-  <a href="https://github.com/ramadhan122">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/ramadhan-sulthon-alfanie-2595b0280">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/sul_lall/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://github.com/ramadhan122"><img src="https://img.shields.io/badge/GitHub-0F0F1A?style=for-the-badge&logo=github&logoColor=00FFC6" /></a>
+<a href="https://www.linkedin.com/in/ramadhan-sulthon-alfanie-2595b0280"><img src="https://img.shields.io/badge/LinkedIn-0F0F1A?style=for-the-badge&logo=linkedin&logoColor=6C00FF" /></a>
+<a href="https://www.instagram.com/sul_lall/"><img src="https://img.shields.io/badge/Instagram-0F0F1A?style=for-the-badge&logo=instagram&logoColor=FF00C6" /></a>
 
-<p align="center">
-  <i>「 Build • Create • Learn • Repeat 」</i>
-</p>
+</div>
 
-<p align="center">
-  Thanks for visiting my profile! ✨
-</p>
+<br>
+
+<div align="center">
+
+**「 BUILD • CREATE • LEARN • REPEAT 」**
+
+*Thanks for visiting my profile — press ⭐ to continue*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC6,100:6C00FF&height=100&section=footer" width="100%"/>
+
+</div>
