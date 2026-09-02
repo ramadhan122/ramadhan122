@@ -118,12 +118,12 @@ A lightweight desktop application featuring a pixel-art animated character.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <a href="LINKEDIN_KAMU">
-    <img src="www.linkedin.com/in/ramadhan-sulthon-alfanie-2595b0280" />
+  <a href="www.linkedin.com/in/ramadhan-sulthon-alfanie-2595b0280">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="INSTAGRAM_KAMU">
-    <img src="https://www.instagram.com/sul_lall/" />
+  <a href="https://www.instagram.com/sul_lall/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
