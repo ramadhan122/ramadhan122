@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME_KAMU">
+  <a href="https://github.com/ramadhan122">
     <img src="https://img.shields.io/github/followers/USERNAME_KAMU?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://github.com/USERNAME_KAMU?tab=repositories">
+  <a href="https://github.com/ramadhan122?tab=repositories">
     <img src="https://img.shields.io/github/stars/USERNAME_KAMU?label=Stars&style=for-the-badge" />
   </a>
 </p>
