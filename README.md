@@ -111,7 +111,7 @@ A small desktop companion built around pixel-art animation and spritesheets.
 ## Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ramadhan122/ramadhan122/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/ramadhan122/ramadhan122/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
