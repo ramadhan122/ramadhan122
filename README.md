@@ -1,138 +1,76 @@
-<h1 align="center">Hi 👋, I'm Ramadhan Sulthon Alfanie</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+Something+Cool+%F0%9F%9A%80" />
-</p>
+# Ramadhan Sulthon Alfanie
 
-<p align="center">
-  Informatics Engineering Graduate • Full Stack Developer
-</p>
+**Full Stack Developer** — Python · Django · React
 
-<p align="center">
-  <a href="https://github.com/ramadhan122">
-    <img src="https://img.shields.io/github/followers/ramadhan122?style=for-the-badge&label=Followers" />
-  </a>
-  <a href="https://github.com/ramadhan122?tab=repositories">
-    <img src="https://img.shields.io/github/stars/ramadhan122?label=Stars&style=for-the-badge" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Graduate;Building+Web+%26+Desktop+Apps;Always+Learning%2C+Always+Building" />
 
----
+<br>
 
-## 👨‍💻 About Me
+[![GitHub](https://img.shields.io/badge/GitHub-ramadhan122-black?style=flat-square&logo=github)](https://github.com/ramadhan122)
+[![Followers](https://img.shields.io/github/followers/ramadhan122?style=flat-square&label=Followers&color=black)](https://github.com/ramadhan122)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ramadhan-sulthon-alfanie-2595b0280)
+[![Instagram](https://img.shields.io/badge/Instagram-sul__lall-black?style=flat-square&logo=instagram)](https://www.instagram.com/sul_lall/)
 
-- 🎓 Informatics Engineering Graduate
-- 💻 Interested in Web & Desktop Development
-- 🐍 Mainly working with Python and Django
-- ⚛️ Building interfaces with React
-- 🖥️ Experimenting with Electron
-- 🎨 I enjoy creating interactive and visual projects
-- 🚀 Always learning and building something new
+</div>
 
----
+<br>
 
-## 🛠️ Tech Stack
+## About
 
-### Frontend
+Informatics Engineering graduate with a focus on web and desktop development. I mainly work with **Python/Django** on the backend and **React** on the frontend, and enjoy experimenting with **Electron** for lightweight desktop apps and interactive visual projects.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
+<br>
 
-### Backend
+## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django" />
-</p>
+| | |
+|---|---|
+| **Frontend** | HTML, CSS, JavaScript, React, Next.js, Tailwind CSS |
+| **Backend** | Python, Django, REST API |
+| **Database** | MySQL, PostgreSQL |
+| **Tools** | Git, GitHub, VS Code, Electron |
 
-### Database & Tools
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,electron" />
-</p>
+## Featured Projects
 
----
+**Export Salak**
+Web application for managing salak (snake fruit) export data, built with React and Django REST Framework.
+`React` `Django` `REST API`
 
-## 🚀 Featured Projects
+**Photography Service Website**
+Photography service platform with customer segmentation using RFM analysis and Decision Tree classification.
+`Django` `Scikit-learn` `MySQL`
 
-### 🌐 Export Salak
+**Desktop Cat**
+Lightweight desktop application featuring a pixel-art animated character.
+`Electron` `JavaScript` `Spritesheet`
 
-A web application built with React and Django REST Framework.
+<br>
 
-**Tech Stack**
+## GitHub Stats
 
-`React` `Django` `Python` `REST API`
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ramadhan122&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhan122&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" height="165" />
+</div>
 
----
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=ramadhan122&theme=tokyonight&hide_border=true" />
+</div>
 
-### 📸 Photography Service Website
+<br>
 
-A photography service platform with customer segmentation using RFM analysis and Decision Tree classification.
+<div align="center">
+<img src="https://raw.githubusercontent.com/ramadhan122/ramadhan122/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</div>
 
-**Tech Stack**
+<br>
 
-`Django` `Python` `Scikit-learn` `MySQL`
+<div align="center">
 
----
+*Build · Create · Learn · Repeat*
 
-### 🐱 Desktop Cat
-
-A lightweight desktop application featuring a pixel-art animated character.
-
-**Tech Stack**
-
-`Electron` `JavaScript` `HTML` `CSS` `Spritesheet`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ramadhan122&show_icons=true&theme=tokyonight&hide_border=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhan122&layout=compact&theme=tokyonight&hide_border=true" height="180" /> </p>
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=ramadhan122&theme=tokyonight&hide_border=true" /> </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ramadhan122/ramadhan122/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> 
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center"> 
-  <a href="https://github.com/ramadhan122"> 
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <a href="www.linkedin.com/in/ramadhan-sulthon-alfanie-2595b0280">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://www.instagram.com/sul_lall/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>「 Build • Create • Learn • Repeat 」</i>
-</p>
-
-<p align="center">
-  Thanks for visiting my profile! ✨
-</p>
+</div>
