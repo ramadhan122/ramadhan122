@@ -99,11 +99,11 @@ A small desktop companion built around pixel-art animation and spritesheets.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ramadhan122&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-tawny-beta-56.vercel.app/api?username=ramadhan122&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhan122&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-tawny-beta-56.vercel.app/api/top-langs/?username=ramadhan122&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
   />
 </p>
